@@ -1,2 +1,2 @@
 # ynac-management
-Digilition des business
+Digitalition des business
